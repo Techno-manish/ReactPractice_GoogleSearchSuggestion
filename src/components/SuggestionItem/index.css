@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding: 10px;
+  margin-left: 0px;
+}
+.image {
+  height: 40px;
+}

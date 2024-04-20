@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bgContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 25vh;
+}
+.logoImage {
+  height: 150px;
+  margin-bottom: 40px;
+}
+.SearchBoxContainer {
+  box-shadow: -2px 2px 8px #bfbfbf;
+  padding: 0px;
+  border-radius: 20px;
+}
+.SearchBox {
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  padding: 10px;
+}
+.searchIcon {
+  height: 50px;
+}
+.searchBar {
+  width: 400px;
+  height: 100%;
+  outline: none;
+  border: none;
+}
